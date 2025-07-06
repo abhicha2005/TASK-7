@@ -1,1 +1,1 @@
-# TASK-7
+so basically i checked all the extension that i  have in my laptop , i checked the permissions of the extension and found 2 extension which have access to read and modify the data on the website i visit and i unistalled both extension 
